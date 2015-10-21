@@ -41,8 +41,8 @@ Linking your [Cloud9 account](https://c9.io) (can be signed in with GitHub) with
 ## Workflow & Commands
 
 **Basics:** When working with Git and GitHub, it's important to learn the workflow of saving, adding, committing, and pushing to your remote repository.  
-1. Saving your file after editing before starting your workflow process is the first step.  
+1. Saving your file (Control S on PC, Command S on Mac) after editing before starting your workflow process is the first step.  
 2. After saving, you must **add** your file to the "stage", meaning it is ready to be committed (command: git add (filename).(extension)  
-3. Next, is an optional command called "git status", which is used to check what files have been edited since the last commit.   
-4. Commiting your file is the next step, using the command "git commit -m"(short but specific message)"". The reason for the message is for your own use, when looking back at past commits on GitHub so you have reference to what was changed in certain commits.  
-5. Finally, the last command to use would be "git push", which will then "push" the code up to the remote repository.
+3. Next, is an optional command called "**git status**", which is used to check what files have been edited since the last commit.   
+4. Commiting your file is the next step, using the command "**git commit -m"(short but specific message)"** ". The reason for the message is for your own use, when looking back at past commits on GitHub so you have reference to what was changed in certain commits.  
+5. Finally, the last command to use would be "**git push**", which will then "push" the code up to the remote repository.
